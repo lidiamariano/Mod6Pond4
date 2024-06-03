@@ -2,6 +2,7 @@
 
 ## 🔍 Descrição
 Este repositório contém implementações de um Perceptron Multicamadas (MLP) para resolver o problema da porta lógica XOR, tanto em Python puro quanto utilizando PyTorch.
+![Mod6Pond4](https://github.com/lidiamariano/Mod6Pond4/assets/123901342/bd72da84-2b51-4ea8-9af1-d468e88e4a4f)
 
 ## 💻 Estrutura do Projeto
 - `mlp.py`: Implementa um Perceptron Multicamadas (MLP) em Python puro com uma camada escondida, utilizando a função sigmoide e um algoritmo de retropropagação para treinar o modelo na resolução do problema da porta XOR.
